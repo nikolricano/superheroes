@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   get 'pages/batman_'
-
+  get 'pages/superman_'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
