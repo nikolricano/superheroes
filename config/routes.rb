@@ -11,7 +11,8 @@ Rails.application.routes.draw do
 
   get 'experiments/page_2'
 
-  get 'experiments/pag_3'
+  get 'experiments/page_3'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
