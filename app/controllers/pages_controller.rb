@@ -3,4 +3,6 @@ class PagesController < ApplicationController
   end
   def superman_
   end
+  def batmanvssuperman_
+  end
 end
